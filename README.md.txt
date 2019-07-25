@@ -1,1 +1,0 @@
-The curse of the Hands-On Oracle Digital Assistant Workshop  for the implements chatbost with Oracle DA
